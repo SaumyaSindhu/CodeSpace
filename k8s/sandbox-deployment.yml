@@ -38,5 +38,5 @@ spec:
           initialDelaySeconds: 30
           timeoutSeconds: 10      
         ports:
-        - containerPort:  5000
+        - containerPort:  3000
           name:  main-sandbox
